@@ -1,3 +1,5 @@
+Fork d'un projet, avec juste 2 tweaks à faire : augmenter le nombre de videos ajoutables à la playlist et utiliser ma propore api google (Pas encore fait donc pas déployable) 
+
 Live at: https://shuffle-playlist.vercel.app/
 
 # Playlist Shuffle - A web application to Shuffle your Youtube Playlist
